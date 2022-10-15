@@ -5,13 +5,13 @@
 
 # VISUAL ANALYSIS WITH TABLEAU
 
-Insight from 2015 USA Census Data (data source at [this link](https://www.kaggle.com/datasets/muonneutrino/us-census-demographic-data) ) 
+Insight from 2015 USA Census Data (data source at [this link](https://www.kaggle.com/datasets/muonneutrino/us-census-demographic-data)) 
 
 The analyses is posted at[ this link,](https://public.tableau.com/app/profile/alx4976/viz/Census_16655268075390/USCensus2015?publish=yes) and it is divided in 3 panels. 
 
 ![](foreign.png)
 
-Panel 1: Which states are the most attractive to foreigners in the U.S.? 
+Panel 1: Which states are the most attractive to foreigners in the U.S.A.? 
 
 Summary: 
 
